@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a19bc01e-ca7f-4d55-bc3a-f223f6d82f2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../DjangoWarehouse/warehouse/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DjangoWarehouse/warehouse/.idea/warehouse.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-project/.idea/new-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-project/src/components/Breadcrumbs/Breadcrumbs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new-project/src/components/Breadcrumbs/Breadcrumbs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/App/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/BookPage/BookPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Card/Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Main/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Preloader/Preloader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Preloader/Preloader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Select/Select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Select/Select.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DAL/API.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/book-removebg-preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/book.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/reposReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/src/components/AddListButton/AddList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/src/components/AddListButton/AddList.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/src/components/List/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo/src/components/List/List.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../todo/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web-social" beforeDir="false" afterPath="$PROJECT_DIR$/../web-social" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1wm2VmML1rkHVvxQVTCNe5coK4K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\react\test-task\src\Components\App" />
+      <recent name="C:\react\test-task\src\Components\BookPage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Reducer.submit works">
+    <configuration name="Reducer" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/Components/App/App.test.js" />
+      <test-names>
+        <test-name value="Reducer" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Reducer.submit works" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Components/App/App.test.js" />
+      <test-names>
+        <test-name value="Reducer" />
+        <test-name value="submit works" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="renders learn react link" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/Components/App/App.test.js" />
+      <test-names>
+        <test-name value="renders learn react link" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Reducer.submit works" />
+        <item itemvalue="Jest.Reducer" />
+        <item itemvalue="Jest.renders learn react link" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a19bc01e-ca7f-4d55-bc3a-f223f6d82f2b" name="Default Changelist" comment="" />
+      <created>1629049481971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629049481971</updated>
+      <workItem from="1629049488046" duration="8482000" />
+      <workItem from="1629112440357" duration="5901000" />
+      <workItem from="1629142869527" duration="370000" />
+      <workItem from="1629143445218" duration="148000" />
+      <workItem from="1629143704214" duration="10788000" />
+      <workItem from="1629191049135" duration="17401000" />
+      <workItem from="1629277047648" duration="22913000" />
+      <workItem from="1629320700020" duration="2663000" />
+      <workItem from="1629379907299" duration="16067000" />
+      <workItem from="1629446928247" duration="2831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/Components/App/App.test.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
